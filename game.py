@@ -11,3 +11,5 @@ while player not in options:
 print("Player: " + player) 
 print("Computer: " + computer)
 
+if player == computer:
+    print("It is a tie")
