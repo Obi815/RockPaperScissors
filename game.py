@@ -1,5 +1,6 @@
 import random
 
+print(" ")
 print("WELCOME TO ROCK PAPER SCISSORS!!!")
 print("---------------------------------")
 
